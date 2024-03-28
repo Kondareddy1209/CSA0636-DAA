@@ -27,3 +27,18 @@ int main() {
     printf("Minimum cost of the Hamiltonian cycle: %d\n", minCost);
     return 0;
 }
+
+
+
+output:
+Enter the number of vertices (maximum 10): 4
+Enter the cost matrix (4 x 4):
+1 2 3 4
+2 1 3 4
+4 3 1 2
+2 3 4 1
+Minimum cost of the Hamiltonian cycle: 9
+
+--------------------------------
+Process exited after 26.63 seconds with return value 0
+Press any key to continue . . .
