@@ -17,3 +17,15 @@ int main() {
     printPattern(n, 1, 1);   
     return 0;
 }
+
+
+output:
+Enter the value of n: 4
+1
+1 2
+1 2 3
+1 2 3 4
+
+--------------------------------
+Process exited after 1.153 seconds with return value 0
+Press any key to continue . . .
