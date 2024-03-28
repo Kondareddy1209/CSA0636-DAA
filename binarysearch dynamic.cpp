@@ -63,3 +63,32 @@ int main()
     printf("Cost of optimal BST is %d\n", optimalBST(keys, freq, n));
     return 0;
 }
+
+
+output:
+Enter the number of keys: 4
+Enter the keys:
+10
+20
+2
+4
+Enter the frequencies:
+1
+2
+3
+6
+Optimal BST structure:
+Level 0: 2
+Level 1: 1
+Level 2: 0
+Level 3: Null
+Level 3: Null
+Level 2: Null
+Level 1: 3
+Level 2: Null
+Level 2: Null
+Cost of optimal BST is 22
+
+--------------------------------
+Process exited after 17.94 seconds with return value 0
+Press any key to continue . . .
