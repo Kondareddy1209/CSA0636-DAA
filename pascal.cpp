@@ -26,3 +26,15 @@ int main() {
     printPascalTriangle(numRows);
     return 0;
 }
+
+
+output:
+Enter the number of rows for Pascal's triangle: 4
+   1
+  1 1
+ 1 2 1
+1 3 3 1
+
+--------------------------------
+Process exited after 2.885 seconds with return value 0
+Press any key to continue . . .
