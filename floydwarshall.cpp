@@ -42,3 +42,22 @@ int main() {
     floydWarshall(graph, n);
     return 0;
 }
+
+
+
+output:
+Enter the number of vertices in the graph (maximum 10): 4
+Enter the adjacency matrix representing the graph (INF for no edge):
+1 4 2 5
+1 3 1 3
+1 5 3 6
+8 6 4 3
+Shortest distances between every pair of vertices:
+1       4       2       5
+1       3       1       3
+1       5       3       6
+4       6       3       4
+
+--------------------------------
+Process exited after 23.51 seconds with return value 0
+Press any key to continue . . .
