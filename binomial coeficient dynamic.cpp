@@ -27,3 +27,12 @@ int main()
     printf("Binomial coefficient C(%d, %d) is %llu\n", n, k, binomialCoeff(n, k));
     return 0;
 }
+
+output:
+Enter the value of n: 6
+Enter the value of k: 3
+Binomial coefficient C(6, 3) is 20
+
+--------------------------------
+Process exited after 2.143 seconds with return value 0
+Press any key to continue . . .
