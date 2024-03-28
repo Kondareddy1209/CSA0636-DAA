@@ -13,3 +13,11 @@ int main() {
     printf("Reverse of %d is %d\n", num, reversedNum);
     return 0;
 }
+
+output:
+Enter a number: 5503
+Reverse of 5503 is 3055
+
+--------------------------------
+Process exited after 4.936 seconds with return value 0
+Press any key to continue . . .
