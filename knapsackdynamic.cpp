@@ -33,3 +33,17 @@ int main()
     printf("The maximum value that can be put in a knapsack of capacity %d is: %d", W, knapSack(W, wt, val, n));
     return 0;
 }
+
+output:
+Enter the number of items: 4
+Enter the values and weights of the items:
+10 4
+11 2
+15 2
+12 5
+Enter the capacity of the knapsack: 15
+The maximum value that can be put in a knapsack of capacity 15 is: 48
+--------------------------------
+Process exited after 24.77 seconds with return value 0
+Press any key to continue . . .
+      
